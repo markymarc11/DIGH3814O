@@ -19,3 +19,13 @@
 - believes in sharing data betwween people, and that all the information should be made assessible, making everyones life easier
 ## Michelle Moravec 
 - writes everything in a public domain so that she can have critique and comments throughout the process. 
+
+# Module 2
+
+## Big Data
+- Big data is basically the idea of talking about larger amounts of data that need to be processed with through the use of technology, because it would not be humanly possible to go through and analyze it all within a certain time frame
+- there has been a logging of all the data in the internet since 1996 with it amassing over 10 petabytes of data in 2012
+- what are we doing with all of this data though, and will it be helpful for us to use, it it accessible
+-  looking at the idea of how even though all of this data is out there, it may not be accessible
+- an example of this is all of the data available on databases that are becoming inncreasingly more expensive for universities to access
+-  this means that the data may not be made available to everyone
