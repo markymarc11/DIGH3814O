@@ -29,3 +29,8 @@
 -  looking at the idea of how even though all of this data is out there, it may not be accessible
 - an example of this is all of the data available on databases that are becoming inncreasingly more expensive for universities to access
 -  this means that the data may not be made available to everyone
+- General Purpose Computing, basically talking about how computers are part of everything that we do
+- looking at how this interaction will be going forward, what kind of rules or regulations we will need to put around it
+- how can we work with technology as well
+- property law, if it's mine I should be able to do whatever I want with it!
+- If everyone is trying to do their own thing making their own codes for things like self-driving cars, we will still need to find a way to 
