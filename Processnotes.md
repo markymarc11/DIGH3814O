@@ -43,4 +43,27 @@
   - documented what I searched for on the DHBox
   
   ## Exercise 2
-  - 
+  - following along on Ian Milligans tutorial for how to get information from a website https://programminghistorian.org/en/lessons/automated-downloading-with-wget#step-two-learning-about-the-structure-of-wget--downloading-a-specific-set-of-files
+  -  (-r) means a recursive retrieval, so it goes to the site and follows the links off the site, and downloads them as well
+  -  (-np) means it should links, but not beyond the parent directory
+  - default takes you to 5 new links from the parent, but can change by (-l 3) which would only make it go to 3
+  - (-w 10) adds a 10 second wait between server requests, so you are not clogging up a server
+  - you can also limit the bandwidth used (--limit-rate=20k) this allows only 20kb/s
+  - you can also mirror a full website with (-m)
+  - ran all of the commands together to grab all of the information from the /papers/ section, everything seems to be running well, it is just taking a while
+  - everything downloaded correctly, downloaded the history of commands that I have done so far
+  - Now getting the information from the war diaries
+  - use Dr.Grahams command to set up python directory, then run the script through it
+  - all the files seem to be downloaded
+  - running command to get all the urls, it is taking some time again, so I wait
+  - everything was downloaded correctly, saved commands in war-diary directory
+  
+  ## Exercise 3
+  - Found the information and transcribed it using notepad++
+  - tried to view it in explorer and it was just coming up as black text
+  - went through the text again to check to make sure everything was closed off, and it all looked fine
+  - still only would show up as black text and did not show all of the writing that was transcribed
+  - tried to go line by line to figure out what was wrong but still unable to get a colour coded version
+  - back to trying it again\
+  - tried writing the code line by line, saving and checking to make sure that they work, worked for the first two parts, but when i tried to annotate the person name, it no longer is showing up colour coordinated....
+  - tried writing out the code again, did not change anything, but now it works, so I guess that is a good thing
