@@ -35,3 +35,12 @@
 - was able to merge the files with no problem at all, i'm happy
 - saved all of the commands that i used to make everything happen up until this point
   
+  # Module 2
+  
+  ## Exercise 1
+  - Tried looking up my surname in the database, but came up with 0 Results, so Then I tried using my moms maiden name, which gave me a plethora of results which I can use. 
+  - downloaded the results and saved them in the repository
+  - documented what I searched for on the DHBox
+  
+  ## Exercise 2
+  - 
