@@ -67,3 +67,26 @@
   - back to trying it again\
   - tried writing the code line by line, saving and checking to make sure that they work, worked for the first two parts, but when i tried to annotate the person name, it no longer is showing up colour coordinated....
   - tried writing out the code again, did not change anything, but now it works, so I guess that is a good thing
+  
+  # Module 3
+  
+  ## Exercise 1
+  - If using a text editor to make find patterns, you must always make sure they know it is a regex, usually need to tick a box or something
+  - the | means "or" 
+  - when looking to replace a word with another, make sure to put spaces before and after the word so that it doesn't change larger words with that letter combination.
+  -  \< means the word starts like this \> means the word ends like this
+  - () means to search for what is inside the brackets
+  - a period .  inbetween letters represents a space that could be any letter
+  ### Editing the Text
+  - Have gotten rid of all of the extra text using Notepad++
+  - deleted the extra little bits of info between the correspondance dates
+  - unable to re-save the file though on the command line it says "error writing texas.txt: Permission denied"
+  - just copied the text to put it into a text editor but only ended up having 5 lines copy over
+  - used the file from before in the text editor to get rid of the extra wording
+  - it seems to be working out now
+  - followed the command in the tutorial to put the ~ in front of all the letter texts
+  - it all worked out well, time to get rid of the extra stuff
+  - put all the lines with the ~ into the index.txt file
+  - trying to get the thing to delete the page files using code "sed -r -i.bak'/(,)( [0-9]{4})(.+)/\/g' index.txt"
+  - gave response "sed: no input files"
+  - looked for a way to fix the problem/looked up the problem online, coud not find any help
