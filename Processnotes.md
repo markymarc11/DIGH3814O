@@ -90,3 +90,13 @@
   - trying to get the thing to delete the page files using code "sed -r -i.bak'/(,)( [0-9]{4})(.+)/\/g' index.txt"
   - gave response "sed: no input files"
   - looked for a way to fix the problem/looked up the problem online, coud not find any help
+  - one of the other students showed me what i was doing wrong in the code and changed it to "sed -r -i.bak 's/(,)( [0-9]{4})(.+)/\2/g' index.txt"
+  - proceed to remove the ~ from the text afterwards " sed -r -i.bak 's/~//g' index.txt "
+  - proceed to change the to in the file to "," sed -r -i.bak 's/(\b to \b)/,/g' index.txt
+  - then to make sure that you get all of the extra "," out open the file in text editor
+  - copy the file into regexr, and use the code .+,.+,.+,  to highlight where the extra "," are
+  - go through and manually delete the extras
+  - save file, and switch it for the one in dhbox
+  - turn file into csv file with "cp index.txt cleaned-correspondence.csv"
+  - boom shaka laka, I did it and didn't go crazy doing it!
+  
