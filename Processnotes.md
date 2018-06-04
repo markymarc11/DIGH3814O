@@ -100,3 +100,15 @@
   - turn file into csv file with "cp index.txt cleaned-correspondence.csv"
   - boom shaka laka, I did it and didn't go crazy doing it!
   
+  ## Exercise 2
+  - Downloading open refine to the computer
+  - first opened the .csv file in openRefine, it was not in columns
+  - took that file opened it in excel and resaved it as an excel file, then when opening that file in open refine, it had the columns
+  - going through clustering the names using the nearest neighbour method
+  - putting different numbers in for Radius and Bloc Char
+  - had to manually go through a couple names and edit them
+  - changed the sender and receiver names to source and target so that I could use the information on a  different interface
+  - exported them
+  - Opened the file in Palladio
+  - there appears to be a few people who send letters to multiple people
+  
