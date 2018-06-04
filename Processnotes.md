@@ -78,6 +78,7 @@
   - () means to search for what is inside the brackets
   - a period .  inbetween letters represents a space that could be any letter
   ### Editing the Text
+  http://workbook.craftingdigitalhistory.ca/supporting%20materials/regexex/
   - Have gotten rid of all of the extra text using Notepad++
   - deleted the extra little bits of info between the correspondance dates
   - unable to re-save the file though on the command line it says "error writing texas.txt: Permission denied"
@@ -101,6 +102,7 @@
   - boom shaka laka, I did it and didn't go crazy doing it!
   
   ## Exercise 2
+  http://workbook.craftingdigitalhistory.ca/supporting%20materials/open-refine/ 
   - Downloading open refine to the computer
   - first opened the .csv file in openRefine, it was not in columns
   - took that file opened it in excel and resaved it as an excel file, then when opening that file in open refine, it had the columns
