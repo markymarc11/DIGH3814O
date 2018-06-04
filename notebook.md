@@ -34,3 +34,11 @@
 - how can we work with technology as well
 - property law, if it's mine I should be able to do whatever I want with it!
 - If everyone is trying to do their own thing making their own codes for things like self-driving cars, we will still need to find a way to 
+
+# Module 3
+
+## Data is Messy
+- Dr. Grahams article talks about ways in which data can be crowd sourced, in areas that may not have very good technological hook ups
+- The problems that came along with this though, people not being sure what they were doing
+- you can also crowd source information by going through previously made information that has been put online
+- 
