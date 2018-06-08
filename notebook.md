@@ -42,3 +42,15 @@
 - The problems that came along with this though, people not being sure what they were doing
 - you can also crowd source information by going through previously made information that has been put online
 - 
+
+# Module 4
+## Corpus linguistics for Historians
+- using computers to analya texts
+- computers have a better chance of noticing patterns than humans may
+- are able to analyze even the small words which we tend to look over
+- looking at the ways in which you can analyze large works to find correlations and patterns
+- when looking at gender rolls, and who is writing about them, it is interesting to see the wording that males and females use
+## Everything on paper will be used against me
+- looking at how certain words when portrayed in a text plot appear closer to others, giving insight to what they are talkinga bout
+- "vietnam" was closely connected to "bombing" representing what they were probably doing in vietnam at the time
+- examples like this can give us a starting point of where to go, without having to read everything
