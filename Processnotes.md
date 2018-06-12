@@ -114,3 +114,21 @@
   - Opened the file in Palladio
   - there appears to be a few people who send letters to multiple people
   
+  # Module 4
+  
+  ## Exercise 2
+  - copied Dr. Grahams Scotland Newspaper text into DHBox
+  - saved file
+  - download file to my own computer
+  - Download topic modelling tool from Github
+  - used the topic modeller, and set it to model 10 topics
+  - with only 10 topics, it did not make much sense
+  - changed it to 30 topics and ran the system again, this time being given a more understandable outcome
+  - doing it in this way allowed for a more comprehensible way of understanding the document, without reading all of it
+  
+  ## Exercise 6 
+  -Using voyant tools
+  - open up the webpage and paste the following link to have information to work off of https://raw.githubusercontent.com/shawngraham/exercise/gh-pages/CND.csv
+  - tried loading it multiple times, but it kept on crashing on me
+  - not exactly sure why, I tried using different browsers, but was still unable to get it to work without crashing
+  
