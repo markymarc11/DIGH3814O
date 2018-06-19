@@ -132,3 +132,10 @@
   - tried loading it multiple times, but it kept on crashing on me
   - not exactly sure why, I tried using different browsers, but was still unable to get it to work without crashing
   
+  # Final Project
+  - Forked the file with all of the war diaries in text format to my github account
+  - downloaded them onto my computer
+  - using voyant tools, upload the downloaded text files, and see what correlations are shown.
+  - find correlation in words strength, struck and taken
+  - use those words on the line graph to see how they correlate with each other. 
+  
